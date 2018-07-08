@@ -1,0 +1,10 @@
+{
+  "name": "db",
+  "connector": "mongodb",
+  "url": "mongodb://lb4:lb4@localhost:27017/todolb4",
+  "host": "localhost",
+  "port": 27017,
+  "user": "lb4",
+  "password": "lb4",
+  "database": "todolb4"
+}
